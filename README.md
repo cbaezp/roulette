@@ -52,6 +52,6 @@ This project demonstrates the practical application of computer vision technique
 
 
 ## YouTube
-[![Check out the youtube video](https://i9.ytimg.com/vi/bpy933SQ6Q0/mqdefault.jpg?v=65a55cc7&sqp=CMygnK0G&rs=AOn4CLBf_akF2k9p9j0e6LxKzW1zL_o5lA)](https://youtu.be/bpy933SQ6Q0)
+[![Check out the youtube video]](https://youtu.be/bpy933SQ6Q0)
 
 
